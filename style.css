@@ -1,0 +1,36 @@
+h1 {
+    padding-left: 1.5%;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+div.main-info {
+    font-family: 'Red Hat Text', sans-serif;
+    width: 70%;
+}
+
+p.info {
+    padding-left: 2%;
+    font-size: 30px;
+    height: 315px
+}
+
+div.additional-info p {
+    position: absolute;
+    padding-left: 3.5%;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 30px;
+}
+
+span.material-symbols-outlined {
+    position: absolute;
+    left: 2%;
+    bottom: 37%;
+}
+
+img {
+   position: absolute;
+   left: 73.5%;
+   top: 10%;
+   width: 350px;
+   height: 430px;
+}
